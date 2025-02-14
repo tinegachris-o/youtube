@@ -5,8 +5,8 @@ Test the app https://youtube-clone-tinega.netlify.app/
 # youtube
 it is simple version of youtube
 
-# VidX 🎥
-
+<a href=" https://youtube-clone-tinega.netlify.app/"># VidX 🎥#youtube
+</a>
 ![VidX Logo](./YouTube.png)
 
 VidX is a full-stack **video-sharing platform** built with **React (Vite)**, **Node.js (Express.js)**, and **MongoDB**. Users can **upload, watch, and interact** with videos.
