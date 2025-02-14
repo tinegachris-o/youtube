@@ -7,7 +7,7 @@ const YouTubeLiveStream = () => {
   const [error, setError] = useState("");
 
   // Replace with your actual YouTube API key
-  const API_KEY = "import.meta.env.VITE_API_KEY";
+  const API_KEY = import.meta.env.VITE_API_KEY;
 
   // Optionally, you can specify a channel ID if you only want live streams from a specific channel:
   // const channelId = "YOUR_CHANNEL_ID";
