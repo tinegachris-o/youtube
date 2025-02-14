@@ -1,0 +1,44 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Logs
+logs/
+*.log
+
+# Build files
+dist/
+out/
+
+# Vite and React build artifacts
+.vite/
+.cache/
+.DS_Store
+
+# Backend specific
+Api/node_modules/
+Api/dist/
+Api/.env
+Api/.cache/
+
+# Frontend specific
+client/node_modules/
+client/dist/
+client/.env
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.swp
+
+# Miscellaneous
+*.bak
+Thumbs.db
